@@ -8,7 +8,7 @@ in order to build a **diverse** community.
 #### Books
 - [The Neurodiverse Workplace](https://www.goodreads.com/book/show/43571492-the-neurodiverse-workplace)
 - [How to Be an Inclusive Leader: Your Role in Creating Cultures of Belonging Where Everyone Can Thrive](https://www.goodreads.com/book/show/41802816-how-to-be-an-inclusive-leader)
-- [Thanks for the Feedback](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
+- [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.goodreads.com/book/show/18114120-thanks-for-the-feedback)
 
 ## General Resources
 Resources that holds more resources for helping you build a better community.
