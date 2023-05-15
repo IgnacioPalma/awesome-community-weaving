@@ -22,4 +22,6 @@ Resources that holds more resources for helping you build a better community.
 - [The Community Canvas: A framework to help you build meaningful communities](https://community-canvas.org/)
 - [Community Tool Box](https://ctb.ku.edu/en)
 - [Close Knit](https://www.closeknit.co/resources/)
+
+##### Blogs
 - [Fabian Pfortmüller Blog](https://medium.com/@pforti)
